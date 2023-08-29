@@ -23,8 +23,9 @@
 </div>
   
 ##
- ![github-contribution-grid-snake](https://github.com/Renatodavid/renatodavid/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)### 
+ ![github-contribution-grid-snake](https://github.com/Renatodavid/renatodavid/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
 <div> 
+  ##
   <a href="https://instagram.com/eu.renatomarques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/RenatoMarquesDavid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5521987051725" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
