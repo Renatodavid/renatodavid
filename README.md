@@ -21,9 +21,6 @@
   
  
 </div>
-  
-##
- ![github-contribution-grid-snake](https://github.com/Renatodavid/renatodavid/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
 <div> 
   
   <a href="https://instagram.com/eu.renatomarques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,4 +29,8 @@
   
 
  </div>
+  
+##
+ ![github-contribution-grid-snake](https://github.com/Renatodavid/renatodavid/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
+
 
