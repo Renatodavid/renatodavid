@@ -6,7 +6,7 @@
 - 👨‍🎓 Estudante das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
 - 🌱Skils , HTML, CSS e JavaScript.
 - 🤖 Pronouns: ele/dele.
-##
+<hr>
 <div>
   <a href="https://github.com/renatodavid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatodavid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,8 @@
 
  </div>
   
-##
+<hr>
+
  ![github-contribution-grid-snake](https://github.com/Renatodavid/renatodavid/assets/106851081/b965f679-191e-4970-af1b-7309a718231c)
 
 
