@@ -17,7 +17,9 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src= https://www.google.com/imgres?imgurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F4.0%2Fassets%2Fbrand%2Fbootstrap-social-logo.png&tbnid=USGpUbuyfp88XM&vet=12ahUKEwjB2tyH1rWBAxV1rpUCHUlyDVMQMygAegQIARBR..i&imgrefurl=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F4.0%2Fcontent%2Fimages%2F&docid=t2RyBFbPC8eZaM&w=600&h=600&q=bootstrap%20img&ved=2ahUKEwjB2tyH1rWBAxV1rpUCHUlyDVMQMygAegQIARBR>
+
   
  
 </div>
