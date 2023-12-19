@@ -2,10 +2,11 @@
 
 
 
-- 👨‍🎓 Estudando na RecodePro2023.
-- 👨‍🎓 Estudante das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
-- 🌱Skils , HTML, CSS e JavaScript.
-- 🤖 Pronouns: ele/dele.
+Sou um Desenvolvedor Full-Stack, entusiasmado e apaixonado por tecnologia. Comecei os estudos na área da programação em 2020 em uma formação inicial em ADS pela UNOPAR. No início de 2023 dei o arranque para embarcar de vez na área estudando por conta própria e depois passando em um processo seletivo pela Recode onde mais de 15 mil pessoas se inscreveram.
+
+Determinação e foco me ajudaram a estar onde estou. Prezo por habilidades de comunicação, trabalho em equipe e gestão do tempo tanto quanto habilidades técnicas. Busco sempre conhecimento e sou bastante curioso para aprender mais do que já sei.
+
+Experiências anteriores me ajudaram a ser uma pessoa de confiança e proativa no trabalho, visando ser produtivo e aprimorar minhas habilidades técnicas. Tenho características autodidatas, mas sem dispensar ajuda de pessoas mais sábias. 
 <hr>
 <div>
   <a href="https://github.com/renatodavid">
