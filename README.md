@@ -1,5 +1,9 @@
-<div align="center" ><br>
-Olá! Eu sou Renato Marques David 
+<img align="right">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=0000CD&center=true&vCenter=true&width=500&lines=About+me!👻;Welcome+to+my+Github+profile+👨‍💻;My+name's+Renato+David+🧙‍♂️;I'm+a+fullstack+student+🧛‍♀">
+  </a>
+</div><br>
 
 Sou um Desenvolvedor Full-Stack, entusiasmado e apaixonado por tecnologia. Comecei os estudos na área da programação em 2020 em uma formação inicial em ADS pela UNOPAR. No início de 2023 dei o arranque para embarcar de vez na área estudando por conta própria e depois passando em um processo seletivo pela Recode onde mais de 15 mil pessoas se inscreveram.
 
