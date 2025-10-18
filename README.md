@@ -5,7 +5,7 @@
   </a>
 </div><br>
 
-Sou um Desenvolvedor Full-Stack, entusiasmado e apaixonado por tecnologia. Comecei os estudos na área da programação em 2020 em uma formação inicial em ADS pela UNOPAR. No início de 2023 dei o arranque para embarcar de vez na área estudando por conta própria e depois passando em um processo seletivo pela Recode onde mais de 15 mil pessoas se inscreveram.
+Sou um Desenvolvedor Back-End, entusiasmado e apaixonado por tecnologia. Comecei os estudos na área da programação em 2020 em uma formação inicial em ADS pela UNOPAR. No início de 2023 dei o arranque para embarcar de vez na área estudando por conta própria e depois passando em um processo seletivo pela Recode onde mais de 15 mil pessoas se inscreveram.
 
 Determinação e foco me ajudaram a estar onde estou. Prezo por habilidades de comunicação, trabalho em equipe e gestão do tempo tanto quanto habilidades técnicas. Busco sempre conhecimento e sou bastante curioso para aprender mais do que já sei.
 
